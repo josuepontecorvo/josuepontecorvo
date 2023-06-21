@@ -5,7 +5,7 @@
 ---
 
 - 👋 Hi, I’m Josue Pontecorvo
-- 👀 I’m interested in learning programming.
+- 👀 I am interested in helping companies with my management and IT skills.
 - 🌱 I currently work as a freelance developer.
 - 📫 You can reach me at josuepontecorvo@gmail.com
 
