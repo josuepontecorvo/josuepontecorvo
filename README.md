@@ -6,8 +6,7 @@
 
 - 👋 Hi, I’m Josue Pontecorvo
 - 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning web development at Digital House.
-
+- 🌱 I currently work as a freelance developer.
 - 📫 You can reach me at josuepontecorvo@gmail.com
 
 ### :hammer_and_wrench: Technologies :
